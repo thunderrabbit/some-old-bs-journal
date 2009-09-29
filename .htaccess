@@ -1,2 +1,8 @@
+# Um, actually, the .htaccess file only works in the root dir of the site, so here we just have what the .htaccess of the site will have once we move this to journal.robnugen.com (perhaps)
+# for now it's just floating around here in git
 # here we want to mod-rewrite j to jernal
 # (eventually to journal, once this project is finished and we'll stop refreshing journal to cgi-bin/journal.pl)
+RewriteEngine On
+
+RewriteRule ^jernal/*$    /j/index.php       [L,QSA]
+RewriteRule ^jernal/(.*)$ /j/index.php?$1 [PT,L,QSA]
