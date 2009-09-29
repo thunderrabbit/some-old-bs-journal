@@ -28,3 +28,5 @@ any.
 I have absolutely no code written yet, but I needed a file to test uploading to the git repository,
 so I wrote this README.TXT It's 85% likely this project and repository will die here, but hopefully
 not.
+
+Hmmm.. having trouble getting directories figured out..
