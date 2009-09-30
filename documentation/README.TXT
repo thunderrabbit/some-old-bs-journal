@@ -40,3 +40,9 @@ just want to upload pics, get a URL response which I embed in the journal entry.
 URLs for different sized thumbs, plus link to large size or even better, link to a slideshow of all
 the pics in the gallery, with focus on the pic that was clicked.)
 
+--------
+
+The optimal system will allow people to log in to leave comments on entries, which would be emailed
+to me, and perhaps (!) examined for spam...  Maybe I can require approval of comments from unknown
+people and then let comments publish immediately from known people.
+
