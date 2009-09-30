@@ -46,3 +46,5 @@ The optimal system will allow people to log in to leave comments on entries, whi
 to me, and perhaps (!) examined for spam...  Maybe I can require approval of comments from unknown
 people and then let comments publish immediately from known people.
 
+Further optimizing would include templates (and therefore skins/themes) for the journal, and perhaps
+a multi-lingual interface.
