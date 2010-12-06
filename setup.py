@@ -14,7 +14,7 @@ field = cgi.FieldStorage()
 print "Content-Type: text/plain\n\n"
 print 'Planning to create a python version of my journal, world!\n'
 
-for request in required_config_vars:
+for request in config.required_config_vars:
    print "<label for='text" + request + "'>" + required_config_vars[request] + " <input id='text" + request + "' type='text' name='" + request + "' value='" + required_config_values[request] + "' /></lable>"
    
 
